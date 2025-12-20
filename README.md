@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 你好，欢迎我的github界面
+
+这是我的社交/视频平台
+
+国外
+
+[facebook](https://www.facebook.com/profile.php?id=61575543877709)
